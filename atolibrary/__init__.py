@@ -23,4 +23,4 @@ __all__ = [
 
 # __all__ = image.__all__ + lotto.__all__ + names.__all__
 
-__version__ = '0.0.11'
+__version__ = '0.0.12'
