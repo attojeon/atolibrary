@@ -1,0 +1,44 @@
+# custom 
+
+# Python specific
+*.pyc
+*.pyo
+__pycache__/
+build/
+dist/
+*.egg-info/
+*.egg
+*.egg-info
+
+
+
+# Virtual environments
+venv/
+env/
+env.bak/
+
+# IDE specific
+.vscode/
+.idea/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.pyd
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+*.tmp.*
+*~
