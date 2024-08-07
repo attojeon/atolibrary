@@ -9,9 +9,9 @@ pip install atolibrary
 ```
 
 ## 임포팅하기 
-    ```python
-    import atolibrary as ato
-    ```
+```python
+import atolibrary as ato
+```
 
 ## 예제로 배우기 
 ### lotto 
@@ -22,8 +22,6 @@ import atolibrary as ato
 
 number = ato.lotto.get_one_number()
 print("생성된 로또 번호:", number)
-```python
-import atolibrary as ato
 
 # `get_one_set`: 하나의 세트를 생성하는 함수입니다.
 def get_one_set():
